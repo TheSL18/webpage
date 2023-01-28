@@ -1,0 +1,19 @@
+::selection {
+  background-color: #ff1515;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #ff1515;
+  color: #fff;
+}
+
+.theme-color {
+  color: #ff1515;
+}
+
+.home-banner .social-icons a:hover,
+.btn-theme,
+.theme-after:after,
+.theme-bg {
+  background: #ff1515;
+}
